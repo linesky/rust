@@ -20,7 +20,7 @@ fn main(){
 	for ab in 0..negn{
 		println!("{}",negative[ab]);
 	}
-	println!("negative group : ");
+	println!("not negative group : ");
 	for ac in 0..nnegn{
 		println!("{}",notnegative[ac]);
 	}

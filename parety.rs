@@ -15,11 +15,11 @@ fn main(){
 	}
 	println!("group : ");
 	println!("{:?}",group1);
-	println!("negative group : ");
+	println!("parety group : ");
 	for ab in 0..paretyn{
 		println!("{}",parety[ab]);
 	}
-	println!("negative group : ");
+	println!("not parety group : ");
 	for ac in 0..nparetyn{
 		println!("{}",notparety[ac]);
 	}
